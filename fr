@@ -94,4 +94,3 @@ local args = {
     [1] = 72,
     [2] = "Royal"
 }
-end
