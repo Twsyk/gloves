@@ -1,0 +1,99 @@
+while _G.auto _G.autoGloves == true do
+
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Red"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Blue"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Green"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Black"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Chained"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Stackti"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Miner"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Midas Touch"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Rainbow"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Pepperoni"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Peppermint"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Money"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Noob"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("functions-shared/network@GlobalFunctions"):WaitForChild("s:setGlove"):FireServer(unpack(args))
+wait(0.1)
+local args = {
+    [1] = 72,
+    [2] = "Royal"
+}
+end
